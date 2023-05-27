@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/thisisyoussef/LinkedList)](https://github.com/thisisyoussef/LinkedList/network)
 [![GitHub stars](https://img.shields.io/github/stars/thisisyoussef/LinkedList)](https://github.com/thisisyoussef/LinkedList/stargazers)
 
-LinkedList is a C# implementation of a singly linked list data structure providing efficient operations and optimizations for insertions, deletions, and traversal of elements. This project aims to create a robust and easy-to-use API for developers to work with LinkedLists in their applications.
+LinkedList is a C++ implementation of a singly linked list data structure providing efficient operations and optimizations for insertions, deletions, and traversal of elements. This project aims to create a robust and easy-to-use API for developers to work with LinkedLists in their applications.
 
 ## Table of Contents
 
@@ -108,6 +108,6 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 For any questions or concerns, please reach out to the project owner, Youssef:
 
 - [GitHub Profile](https://github.com/thisisyoussef)
-- [Email Address](mailto:example@example.com)
+- [Email Address](mailto:youssefiahmedis@gmail.com)
 
 Also, don't hesitate to open an issue if you encounter any problems or have feature suggestions for this project.
